@@ -1,4 +1,4 @@
-<h1>👋 Hei!</h1>
+<h1>👋 Hey!</h1>
 <h4>I'm <a href="https://discord.gg/XVWeU98fR3">Hapho#3077</a> <i>AKA</i> <a href="https://github.com/Haphobi">@Haphobi</a> <i>AKA</i> Hapho.</h4>
 
 <h4>👀 I’m interested in:</h4>
