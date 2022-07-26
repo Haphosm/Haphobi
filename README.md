@@ -19,7 +19,7 @@
 <br/>
 - <a href="https://discord.gg/XVWeU98fR3">Discord</a>
 <h4>😄 Pronouns:</h4>
-- Any pronouns, I'm fluid!
+- He/Him or They/Them
 
 
 <!---
