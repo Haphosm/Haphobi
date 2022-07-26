@@ -12,7 +12,9 @@
 <br/>
 - Javascript
 <br/>
-- HTML5
+- HTML
+<br/>
+- CSS
 <h4>👯 I’m looking for suggestions on my projects!</h4>
 <h4>📫 How to reach me:</h4>
 - <a href="mailto:haphosm@gmail.com">Email</a>
