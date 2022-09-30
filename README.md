@@ -8,11 +8,7 @@
 <br/>
 - Messing around with code
 <h4>🌱 I’m currently learning:</h4>
-- Python
-<br/>
 - Javascript
-<br/>
-- HTML
 <br/>
 - CSS
 <h4>👯 I’m looking for suggestions on my projects!</h4>
