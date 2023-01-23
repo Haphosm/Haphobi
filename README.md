@@ -1,23 +1,26 @@
-<h1>👋 Hey!</h1>
-<h4>I'm <a href="https://discord.gg/XVWeU98fR3">Hapho#3077</a> <i>AKA</i> <a href="https://github.com/Haphobi">@Haphobi</a> <i>AKA</i> Hapho.</h4>
+# 👋 Hey!</h1>
+##### I'm Hapho, enchanté.
+I'm a student and software developer from [the Baltics](https://simple.wikipedia.org/wiki/Baltic_states).
 
-<h4>👀 I’m interested in:</h4>
-- Making websites
-<br/>
-- Making mobile apps
-<br/>
-- Messing around with code
-<h4>🌱 I’m currently learning:</h4>
-- Javascript
-<br/>
-- CSS
-<h4>👯 I’m looking for suggestions on my projects!</h4>
-<h4>📫 How to reach me:</h4>
-- <a href="mailto:haphosm@gmail.com">Email</a>
-<br/>
-- <a href="https://discord.gg/XVWeU98fR3">Discord</a>
-<h4>😄 Pronouns:</h4>
+---
+♂️ **My pronouns are**:
 - He/Him or They/Them
+
+:eyes: **My portfolio**:
+- *WIP*
+- For more info check out my [Discord server](https://discord.gg/XVWeU98fR3)
+ 
+:seedling: **I’m currently learning**:
+- Javascript
+- CSS
+- HTML
+
+:mailbox: **How to reach me**:
+- [Email](mailto:haphosm@gmail.com)
+- [Discord](https://discord.gg/XVWeU98fR3)
+- [Github](https://github.com/Haphobi)
+
+
 
 
 <!---
