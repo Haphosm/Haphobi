@@ -18,19 +18,19 @@ I'm a student and software developer from [the Baltics](https://simple.wikipedia
 :mailbox: **How to reach me**:
 - [Email](mailto:haphosm@gmail.com)
 - [Discord](https://discord.gg/XVWeU98fR3)
-- [Github](https://github.com/Haphobi)
+- [Github](https://github.com/Haphosm)
 
 
 
 
 <!---
-Haphobi/Haphobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Haphosm/Haphosm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 
 <!--
-**Haphobi/Haphobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Haphosm/Haphosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
