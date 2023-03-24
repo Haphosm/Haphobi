@@ -12,8 +12,7 @@ I'm a student and software developer from [the Baltics](https://simple.wikipedia
  
 :seedling: **I’m currently learning**:
 - Javascript
-- CSS
-- HTML
+- Python
 
 :mailbox: **How to reach me**:
 - [Email](mailto:haphosm@gmail.com)
