@@ -16,7 +16,6 @@ I'm a student and software developer from [the Baltics](https://simple.wikipedia
 
 :mailbox: **How to reach me**:
 - [Email](mailto:haphosm@gmail.com)
-- [Discord](https://discord.gg/XVWeU98fR3)
 - [Github](https://github.com/Haphosm)
 
 ---
