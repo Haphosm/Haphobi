@@ -7,8 +7,7 @@ I'm a student and software developer from [the Baltics](https://simple.wikipedia
 - He/Him or They/Them
 
 :eyes: **My portfolio**:
-- *WIP*
-- For more info check out my [Discord server](https://discord.gg/XVWeU98fR3)
+- [Website (WIP)](https://haphosm.github.io/)
  
 :seedling: **I’m currently learning**:
 - Javascript
